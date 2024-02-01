@@ -1,0 +1,6 @@
+llama-index
+openai
+pypdf
+python-dotenv
+streamlit
+google-generativeai

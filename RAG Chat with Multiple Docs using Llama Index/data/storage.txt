@@ -1,0 +1,1 @@
+This folder is just made to store the documents uploaded by the user. The files instantly get deleted after loading it into the program.
